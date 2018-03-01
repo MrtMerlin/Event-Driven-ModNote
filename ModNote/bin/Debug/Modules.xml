@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfModules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Modules>
+    <Code>CGP1005M</Code>
+    <Title>Game Design 1</Title>
+    <Syno>This module explores games as products of a design process, centred on how the mechanics of a game shape the experience of the players. There is a strong focus on practical work and experimentation, to get a first-hand understanding of how the components of a game work together and the effects of various changes in context.</Syno>
+    <Lo>LO1 Recognise the relationship between game mechanics and gameplay experience
+LO2 Analyse the architecture, design and underlying patterns of games
+LO3 Design and implement a paper prototype that demonstrates game design processes
+
+</Lo>
+    <Assign>Assignment	28/04/2016
+ </Assign>
+    <Exp>28/04/2016 00:00:00This assignment is Overdue 
+</Exp>
+  </Modules>
+  <Modules>
+    <Code>CMP1005M</Code>
+    <Title>Operating Systems</Title>
+    <Syno>This module studies both the theoretical design concepts which underpin all operating systems and, through case-studies, the practical implementation techniques of current operating systems. Special attention will be given to shell programming languages and examples to practically implement concepts and techniques at the basis of the various operating systems</Syno>
+    <Lo>LO1 Outline and discuss mechanics and strategies within operating system architectures
+LO2 Review models and processes in operating systems architectures
+LO3 Use a range of tools to interact with operating systems from the Windows and the UNIX families.
+
+</Lo>
+    <Assign>In-Class Test	w/c 22/02/2016
+ In-Class Test	w/c 25/04/2016
+ </Assign>
+    <Exp>22/02/2016 00:00:00This assignment is Overdue 
+25/04/2016 00:00:00This assignment is Overdue 
+</Exp>
+  </Modules>
+  <Modules>
+    <Code>CMP1124M</Code>
+    <Title>Algorithms and Complexity</Title>
+    <Syno>The module introduces the concepts of Algorithms and Complexity, providing an understanding of the range of applications where algorithmic solutions are required. Students will be introduced to the analysis of time and space efficiency of algorithms; to the key issues in algorithm design; to the range of techniques used in the design of various types of algorithms. Students will be introduced to relevant theoretical concepts around algorithms and complexity in the lectures, together with a practical experience of implementing a range of algorithms in the workshops.</Syno>
+    <Lo>LO1 understand the time and space efficiency of algorithms and how to calculate/estimate/evaluate and improve them
+LO2 determine an appropriate algorithmic approach to a problem
+LO3 demonstrate the ability to select from a range of possible options, to provide justification for that selection, and to implement algorithms in a particular context.
+ASSIGNMENT
+</Lo>
+    <Assign>In-Class Test	w/c 07/03/16
+ Assignment	21/04/2016
+ </Assign>
+    <Exp>07/03/2016 00:00:00This assignment is Overdue 
+21/04/2016 00:00:00This assignment is Overdue 
+</Exp>
+  </Modules>
+  <Modules>
+    <Code>CMP1125M</Code>
+    <Title>Computer Architectures</Title>
+    <Syno>This module introduces the fundamentals of computer hardware underpinning the key aspects of Computer Science. This knowledge is not only essential for deeper understanding of the governing processes behind computing but also for realising how hardware interacts with software.</Syno>
+    <Lo>LO1 demonstrate an understanding of fundamentals underpinning modern computer architectures.
+LO2 review and compare different models and processes used in modern computer architectures.
+LO3 communicate rational and reasoned arguments in writing
+LO4 locate and reference relevant information
+
+</Lo>
+    <Assign>In-Class Test	w/c 07/03/2016
+ Assignment	17/03/2016
+ In-Class Test	w/c 25/04/2016
+ </Assign>
+    <Exp>07/03/2016 00:00:00This assignment is Overdue 
+17/03/2016 00:00:00This assignment is Overdue 
+25/04/2016 00:00:00This assignment is Overdue 
+</Exp>
+  </Modules>
+  <Modules>
+    <Code>CMP1127M</Code>
+    <Title>Programming and Data Structures</Title>
+    <Syno>This module introduces the concepts and practice of simple computer programming, with attention paid to the fundamentals that constitute a complete computer program including layout, structure and functionality. The module extends students' knowledge of computer programming and introduces them to fundamental computing data structures allowing the representation of data in computer programs.</Syno>
+    <Lo>LO1 identify the properties of common data structures
+LO2 apply appropriate data structures in common programming solutions
+LO3 implement programs consisting of multiple procedures
+LO4 apply simple testing techniques to evaluate programs
+
+</Lo>
+    <Assign>Assignment	17/12/2015
+ Assignment	21/04/2016
+ </Assign>
+    <Exp>17/12/2015 00:00:00This assignment is Overdue 
+21/04/2016 00:00:00This assignment is Overdue 
+</Exp>
+  </Modules>
+  <Modules>
+    <Code>CMP1129M</Code>
+    <Title>Web Applications Development</Title>
+    <Syno>This module provides students with the knowledge to design and develop client-server web technologies. Students will learn key concepts on constructing and deploying server side code, including database and application programmable interface (API) connectivity as well as industry standard communication protocols such as REST and SOAP.</Syno>
+    <Lo>LO1 understand the strengths and weaknesses of current web communication protocols
+LO2 design and implement a basic web service with database connectivity and client application
+LO3 apply appropriate RESTful design guidelines to web services to support maximum interoperability across a variety of platforms
+
+</Lo>
+    <Assign>Assignment	21/04/2016
+ </Assign>
+    <Exp>21/04/2016 00:00:00This assignment is Overdue 
+</Exp>
+  </Modules>
+</ArrayOfModules>

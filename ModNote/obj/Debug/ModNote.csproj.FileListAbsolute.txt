@@ -1,0 +1,31 @@
+c:\users\admin\documents\visual studio 2015\Projects\ModNote\ModNote\bin\Debug\ModNote.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\ModNote\ModNote\bin\Debug\ModNote.exe
+c:\users\admin\documents\visual studio 2015\Projects\ModNote\ModNote\bin\Debug\ModNote.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ModNote\ModNote\obj\Debug\ModNote.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\ModNote\ModNote\obj\Debug\ModNote.ModNoteMain.resources
+c:\users\admin\documents\visual studio 2015\Projects\ModNote\ModNote\obj\Debug\ModNote.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\ModNote\ModNote\obj\Debug\ModNote.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\ModNote\ModNote\obj\Debug\ModNote.exe
+c:\users\admin\documents\visual studio 2015\Projects\ModNote\ModNote\obj\Debug\ModNote.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ModNote\ModNote\obj\Debug\ModNote.addScreen.resources
+E:\Projects\ModNote\ModNote\bin\Debug\ModNote.exe.config
+E:\Projects\ModNote\ModNote\obj\Debug\ModNote.exe
+E:\Projects\ModNote\ModNote\obj\Debug\ModNote.pdb
+D:\Projects\ModNote\ModNote\bin\Debug\ModNote.exe.config
+D:\Projects\ModNote\ModNote\obj\Debug\ModNote.exe
+D:\Projects\ModNote\ModNote\obj\Debug\ModNote.pdb
+D:\Projects\ModNote\ModNote\bin\Debug\ModNote.exe
+D:\Projects\ModNote\ModNote\bin\Debug\ModNote.pdb
+D:\Projects\ModNote\ModNote\obj\Debug\ModNote.csprojResolveAssemblyReference.cache
+D:\Projects\ModNote\ModNote\obj\Debug\ModNote.ModNoteMain.resources
+D:\Projects\ModNote\ModNote\obj\Debug\ModNote.Properties.Resources.resources
+D:\Projects\ModNote\ModNote\obj\Debug\ModNote.csproj.GenerateResource.Cache
+D:\Projects\ModNote\ModNote\obj\Debug\ModNote.EditScreen.resources
+E:\Projects\ModNote\ModNote\bin\Debug\ModNote.exe
+E:\Projects\ModNote\ModNote\bin\Debug\ModNote.pdb
+E:\Projects\ModNote\ModNote\obj\Debug\ModNote.csprojResolveAssemblyReference.cache
+E:\Projects\ModNote\ModNote\obj\Debug\ModNote.EditScreen.resources
+E:\Projects\ModNote\ModNote\obj\Debug\ModNote.ModNoteMain.resources
+E:\Projects\ModNote\ModNote\obj\Debug\ModNote.Properties.Resources.resources
+E:\Projects\ModNote\ModNote\obj\Debug\ModNote.csproj.GenerateResource.Cache
+D:\Projects\ModNote\ModNote\obj\Debug\ModNote.csproj.CoreCompileInputs.cache
